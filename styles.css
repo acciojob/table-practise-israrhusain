@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table,th,td{
+	border:2px solid black;
+	width:350px;
+	height:40px;
+	font-size:20px;
+	background-color:yellow;
+}
+caption{
+	font-size:30px;
+	font-weight:bold;
+}

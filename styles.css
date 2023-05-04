@@ -1,12 +1,15 @@
 /*  your css code here. If applicable */
 table,th,td{
-	border:2px solid black;
-	width:350px;
-	height:40px;
-	font-size:20px;
+	border:1px solid black;
+	width:360px;
+	height:45px;
+	font-size:25px;
 	background-color:yellow;
 }
 caption{
 	font-size:30px;
 	font-weight:bold;
+}
+th{
+	font-size:30px;
 }
